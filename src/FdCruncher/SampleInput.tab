@@ -1,0 +1,207 @@
+ID	Position	Name	Salary	Opponent	Team	Venue	Minutes	SeasonAvgMins	Metric	Modifier	Value	MetricName	MetricFrom	DefenseMultiplier	PositionRank	Include	Exclude
+26361	1	Bayless, Jerryd	4400	Orlando Magic	Milwaukee Bucks	Home	30.15	30.27	23.33	1.000000	0.530227	FirstOne2	2015-11-25	0.8899	1	1	0
+26422	1	Knight, Brandon	7900	Golden State Warriors	Phoenix Suns	Visitor	37.00	35.33	40.93	1.000000	0.518101	FirstOne2	2015-11-25	0.9814	2	0	0
+26389	1	Smith, Ishmael	6600	Los Angeles Clippers	New Orleans Pelicans	Home	30.22	28.15	34.14	1.000000	0.517272	FirstOne2	2015-11-25	1.1025	3	0	0
+26006	1	Parker, Tony	5700	Denver Nuggets	San Antonio Spurs	Home	30.43	28.13	28.43	1.000000	0.498771	FirstOne2	2015-11-25	0.9888	4	0	0
+26429	1	Rondo, Rajon	8500	Minnesota Timberwolves	Sacramento Kings	Visitor	39.10	36.07	42.33	1.000000	0.498000	FirstOne2	2015-11-25	1.0654	5	0	0
+26311	1	Dellavedova, Matthew	4400	Charlotte Hornets	Cleveland Cavaliers	Home	26.69	26.21	21.03	1.000000	0.477954	FirstOne2	2015-11-23	0.9146	6	0	0
+26432	1	Westbrook, Russell	11600	Detroit Pistons	Oklahoma City Thunder	Visitor	33.81	34.19	54.84	1.000000	0.472758	FirstOne2	2015-11-25	1.0358	7	0	0
+26313	1	Calderon, Jose	4600	Miami Heat	New York Knicks	Visitor	28.94	25.81	20.98	1.000000	0.456086	FirstOne2	2015-11-25	0.9394	8	0	0
+26329	1	Canaan, Isaiah	4100	Houston Rockets	Philadelphia 76ers	Home	25.76	24.81	18.63	1.000000	0.454390	FirstOne2	2015-11-25	1.0036	9	0	0
+26414	1	Thomas, Isaiah	7300	Washington Wizards	Boston Celtics	Visitor	30.56	30.00	33.15	1.000000	0.454109	FirstOne2	2015-11-25	0.8405	10	0	0
+26408	1	Conley, Mike	7000	Atlanta Hawks	Memphis Grizzlies	Visitor	31.78	31.44	31.76	1.000000	0.453714	FirstOne2	2015-11-25	1.1124	11	0	0
+26417	1	Walker, Kemba	8200	Cleveland Cavaliers	Charlotte Hornets	Visitor	36.33	33.53	36.56	1.000000	0.445853	FirstOne2	2015-11-25	0.9023	12	0	0
+26378	1	Mudiay, Emmanuel	6000	San Antonio Spurs	Denver Nuggets	Visitor	28.51	29.47	25.83	1.000000	0.430500	FirstOne2	2015-11-24	1.1272	13	0	0
+26298	1	Collison, Darren	5100	Minnesota Timberwolves	Sacramento Kings	Visitor	27.40	28.30	21.93	1.000000	0.430000	FirstOne2	2015-11-25	1.0654	14	0	0
+25652	1	Curry, Stephen	10900	Phoenix Suns	Golden State Warriors	Home	33.66	34.25	46.86	1.000000	0.429908	FirstOne2	2015-11-24	1.1074	15	0	0
+26383	1	Payton, Elfrid	6500	Milwaukee Bucks	Orlando Magic	Visitor	31.46	30.64	27.54	1.000000	0.423692	FirstOne2	2015-11-25	1.0012	16	0	0
+26294	1	Chalmers, Mario	4500	Atlanta Hawks	Memphis Grizzlies	Visitor	20.17	19.69	19.01	1.000000	0.422444	FirstOne2	2015-11-25	1.1124	17	0	0
+26390	1	Teague, Jeff	7200	Memphis Grizzlies	Atlanta Hawks	Home	28.86	29.71	30.18	1.000000	0.419166	FirstOne2	2015-11-25	1.0654	18	0	0
+26398	1	Paul, Chris	8900	New Orleans Pelicans	Los Angeles Clippers	Visitor	31.44	31.50	37.21	1.000000	0.418089	FirstOne2	2015-11-25	1.0630	19	0	0
+26324	1	Williams, Maurice	6100	Charlotte Hornets	Cleveland Cavaliers	Home	30.57	30.75	25.20	1.000000	0.413114	FirstOne2	2015-11-25	0.9146	20	0	0
+25890	1	Smart, Marcus	5300	Washington Wizards	Boston Celtics	Visitor	27.30	28.56	21.87	1.000000	0.412641	FirstOne2	2015-11-20	0.8405	21	0	0
+26352	1	Schroder, Dennis	4600	Memphis Grizzlies	Atlanta Hawks	Home	21.63	23.12	18.95	1.000000	0.411956	FirstOne2	2015-11-25	1.0654	22	0	0
+26368	1	McConnell, T.J.	5000	Houston Rockets	Philadelphia 76ers	Home	26.00	27.63	20.40	1.000000	0.408000	FirstOne2	2015-11-25	1.0036	23	0	0
+26349	1	Rubio, Ricky	7100	Sacramento Kings	Minnesota Timberwolves	Home	28.62	29.45	28.92	1.000000	0.407323	FirstOne2	2015-11-25	1.0976	24	0	0
+26296	1	Vasquez, Greivis	3800	Orlando Magic	Milwaukee Bucks	Home	20.08	22.60	15.47	1.000000	0.407105	FirstOne2	2015-11-25	0.8899	25	0	0
+26269	1	Sessions, Ramon	3900	Boston Celtics	Washington Wizards	Home	16.52	17.00	15.85	1.000000	0.406410	FirstOne2	2015-11-25	0.9839	26	0	0
+26403	1	Jackson, Reggie	7500	Oklahoma City Thunder	Detroit Pistons	Home	28.46	30.53	30.34	1.000000	0.404533	FirstOne2	2015-11-25	0.9740	27	0	0
+26270	1	Johnson, Tyler	3900	New York Knicks	Miami Heat	Home	20.85	20.46	15.73	1.000000	0.403333	FirstOne2	2015-11-25	0.8701	28	0	0
+26343	1	Dragic, Goran	5700	New York Knicks	Miami Heat	Home	30.23	30.29	22.92	1.000000	0.402105	FirstOne2	2015-11-25	0.8701	29	0	0
+26337	1	Hill, George	6300	Chicago Bulls	Indiana Pacers	Visitor	35.00	35.91	24.95	1.000000	0.396031	FirstOne2	2015-11-24	0.9047	30	0	0
+26300	1	Mills, Patty	3700	Denver Nuggets	San Antonio Spurs	Home	21.18	21.13	14.62	1.000000	0.395135	FirstOne2	2015-11-25	0.9888	31	0	0
+26316	1	Rose, Derrick	7000	Indiana Pacers	Chicago Bulls	Home	32.44	32.09	27.41	1.000000	0.391571	FirstOne2	2015-11-24	1.0654	32	0	0
+26291	1	Holiday, Jrue	5500	Los Angeles Clippers	New Orleans Pelicans	Home	22.67	22.27	21.32	1.000000	0.387636	FirstOne2	2015-11-25	1.1025	33	0	0
+26387	1	Wall, John	8500	Boston Celtics	Washington Wizards	Home	31.79	32.33	32.80	1.000000	0.385882	FirstOne2	2015-11-25	0.9839	34	0	0
+26334	1	Lin, Jeremy	4700	Cleveland Cavaliers	Charlotte Hornets	Visitor	23.45	22.87	17.95	1.000000	0.381914	FirstOne2	2015-11-25	0.9023	35	0	0
+26275	1	Rivers, Austin	3500	New Orleans Pelicans	Los Angeles Clippers	Visitor	23.83	23.73	12.89	1.000000	0.368285	FirstOne2	2015-11-25	1.0630	36	0	0
+26200	1	Terry, Jason	3500	Philadelphia 76ers	Houston Rockets	Visitor	22.28	17.38	12.25	1.000000	0.350000	FirstOne2	2015-11-25	1.0457	37	0	0
+26288	1	Carter-Williams, Michael	6200	Orlando Magic	Milwaukee Bucks	Home	27.63	28.70	21.10	1.000000	0.340322	FirstOne2	2015-11-25	0.8899	38	0	0
+26222	1	Livingston, Shaun	3500	Phoenix Suns	Golden State Warriors	Home	18.75	18.86	11.32	1.000000	0.323428	FirstOne2	2015-11-24	1.1074	39	0	0
+26272	1	Nelson, Jameer	4100	San Antonio Spurs	Denver Nuggets	Visitor	23.68	23.85	13.03	1.000000	0.317804	FirstOne2	2015-11-24	1.1272	40	0	0
+26164	1	Dinwiddie, Spencer	3500	Oklahoma City Thunder	Detroit Pistons	Home	15.56	16.00	10.73	1.000000	0.306571	FirstOne2	2015-11-23	0.9740	41	0	0
+26213	1	Napier, Shabazz	3800	Milwaukee Bucks	Orlando Magic	Visitor	15.74	13.15	11.05	1.000000	0.290789	FirstOne2	2015-11-25	1.0012	42	0	0
+26192	1	Beverley, Patrick	3500	Philadelphia 76ers	Houston Rockets	Visitor	15.16	15.63	9.52	1.000000	0.272000	FirstOne2	2015-11-25	1.0457	43	0	0
+25461	1	Temple, Garrett	3500	Boston Celtics	Washington Wizards	Home	15.69	14.60	9.48	1.000000	0.270857	FirstOne2	2015-11-25	0.9839	44	0	0
+26256	1	Augustin, D.J.	3500	Detroit Pistons	Oklahoma City Thunder	Visitor	15.53	16.63	9.21	1.000000	0.263142	FirstOne2	2015-11-25	1.0358	45	0	0
+26205	1	Moore, E'Twaun	3500	Indiana Pacers	Chicago Bulls	Home	16.33	17.08	8.46	1.000000	0.241714	FirstOne2	2015-11-24	1.0654	46	0	0
+26310	1	Lawson, Ty	5100	Philadelphia 76ers	Houston Rockets	Visitor	20.88	29.73	11.62	1.000000	0.227843	FirstOne2	2015-11-25	1.0457	47	0	0
+26347	2	Lamb, Jeremy	4600	Cleveland Cavaliers	Charlotte Hornets	Visitor	25.91	24.07	22.89	1.000000	0.497608	FirstOne2	2015-11-25	0.9139	1	1	0
+26339	2	Belinelli, Marco	4000	Minnesota Timberwolves	Sacramento Kings	Visitor	28.10	27.73	19.88	1.000000	0.497000	FirstOne2	2015-11-25	1.0972	2	0	0
+26371	2	Barton, Will	5000	San Antonio Spurs	Denver Nuggets	Visitor	25.37	25.80	23.07	1.000000	0.461400	FirstOne2	2015-11-24	1.1273	3	0	0
+26309	2	Harris, Gary	4100	San Antonio Spurs	Denver Nuggets	Visitor	28.76	26.20	18.91	1.000000	0.461219	FirstOne2	2015-11-24	1.1273	4	0	0
+26346	2	Waiters, Dion	4800	Detroit Pistons	Oklahoma City Thunder	Visitor	28.46	27.50	21.77	1.000000	0.453541	FirstOne2	2015-11-25	1.0261	5	0	0
+26380	2	Gordon, Eric	6100	Los Angeles Clippers	New Orleans Pelicans	Home	35.75	35.53	27.51	1.000000	0.450983	FirstOne2	2015-11-25	1.0644	6	0	0
+26002	2	Antetokounmpo, Giannis	7000	Orlando Magic	Milwaukee Bucks	Home	32.22	33.93	31.55	1.000000	0.450714	FirstOne2	2015-11-25	0.8619	7	0	0
+26317	2	Green, Danny	4300	Denver Nuggets	San Antonio Spurs	Home	28.45	28.20	19.21	1.000000	0.446744	FirstOne2	2015-11-25	0.8345	8	0	0
+26304	2	Ginobili, Manu	4700	Denver Nuggets	San Antonio Spurs	Home	21.74	20.75	20.61	1.000000	0.438510	FirstOne2	2015-11-25	0.8345	9	0	0
+26320	2	Lee, Courtney	3600	Atlanta Hawks	Memphis Grizzlies	Visitor	26.11	27.56	15.62	1.000000	0.433888	FirstOne2	2015-11-25	1.0534	10	0	0
+26330	2	Korver, Kyle	4800	Memphis Grizzlies	Atlanta Hawks	Home	32.07	31.40	20.73	1.000000	0.431875	FirstOne2	2015-11-25	0.9604	11	0	0
+26035	2	Bledsoe, Eric	8500	Golden State Warriors	Phoenix Suns	Visitor	34.58	34.00	36.23	1.000000	0.426235	FirstOne2	2015-11-25	1.0370	12	0	0
+26363	2	LaVine, Zach	5500	Sacramento Kings	Minnesota Timberwolves	Home	25.46	23.80	23.22	1.000000	0.422181	FirstOne2	2015-11-25	0.9932	13	0	0
+26312	2	Beal, Bradley	6800	Boston Celtics	Washington Wizards	Home	33.71	33.78	28.57	1.000000	0.420147	FirstOne2	2015-11-25	1.0644	14	0	0
+26242	2	Neal, Gary	3900	Boston Celtics	Washington Wizards	Home	21.49	19.67	16.15	1.000000	0.414102	FirstOne2	2015-11-25	1.0644	15	0	0
+26372	2	Ellis, Monta	6500	Chicago Bulls	Indiana Pacers	Visitor	32.53	32.71	26.75	1.000000	0.411538	FirstOne2	2015-11-24	0.9248	16	0	0
+26353	2	Bradley, Avery	6200	Washington Wizards	Boston Celtics	Visitor	30.36	28.85	25.44	1.000000	0.410322	FirstOne2	2015-11-25	1.0097	17	0	0
+26276	2	Smith, J.R.	5400	Charlotte Hornets	Cleveland Cavaliers	Home	33.85	30.92	22.12	1.000000	0.409629	FirstOne2	2015-11-25	1.0069	18	0	0
+26367	2	Thompson, Klay	6300	Phoenix Suns	Golden State Warriors	Home	32.01	31.27	25.55	1.000000	0.405555	FirstOne2	2015-11-24	0.9303	19	0	0
+26384	2	Fournier, Evan	5900	Milwaukee Bucks	Orlando Magic	Visitor	32.30	35.50	23.92	1.000000	0.405423	FirstOne2	2015-11-25	1.0233	20	0	0
+25908	2	Allen, Tony	4100	Atlanta Hawks	Memphis Grizzlies	Visitor	23.07	22.31	16.54	1.000000	0.403414	FirstOne2	2015-11-25	1.0534	21	0	0
+26336	2	Caldwell-Pope, Kentavious	4800	Oklahoma City Thunder	Detroit Pistons	Home	34.40	36.13	19.31	1.000000	0.402291	FirstOne2	2015-11-25	0.9960	22	0	0
+26375	2	Wade, Dwyane	7200	New York Knicks	Miami Heat	Home	28.54	28.92	28.51	1.000000	0.395972	FirstOne2	2015-11-25	0.9632	23	0	0
+26166	2	Mayo, O.J.	3600	Orlando Magic	Milwaukee Bucks	Home	21.00	21.00	14.20	1.000000	0.394444	FirstOne2	2015-11-25	0.8619	24	0	0
+26233	2	Afflalo, Arron	4500	Miami Heat	New York Knicks	Visitor	30.65	30.63	17.70	1.000000	0.393333	FirstOne2	2015-11-25	0.9112	25	0	0
+26255	2	McLemore, Ben	3700	Minnesota Timberwolves	Sacramento Kings	Visitor	21.48	18.93	14.51	1.000000	0.392162	FirstOne2	2015-11-25	1.0972	26	0	0
+26206	2	Green, Gerald	3500	New York Knicks	Miami Heat	Home	21.67	20.63	13.49	1.000000	0.385428	FirstOne2	2015-11-25	0.9632	27	0	0
+26241	2	Stuckey, Rodney	4500	Chicago Bulls	Indiana Pacers	Visitor	21.24	21.67	17.30	1.000000	0.384444	FirstOne2	2015-11-24	0.9248	28	0	0
+25970	2	Crawford, Jamal	4700	New Orleans Pelicans	Los Angeles Clippers	Visitor	27.85	25.60	18.04	1.000000	0.383829	FirstOne2	2015-11-25	1.0972	29	0	0
+26302	2	Martin, Kevin	4500	Sacramento Kings	Minnesota Timberwolves	Home	24.03	24.86	16.89	1.000000	0.375333	FirstOne2	2015-11-25	0.9932	30	0	0
+26377	2	Oladipo, Victor	7200	Milwaukee Bucks	Orlando Magic	Visitor	27.61	31.67	26.80	1.000000	0.372222	FirstOne2	2015-11-25	1.0233	31	0	0
+26178	2	Hinrich, Kirk	3700	Indiana Pacers	Chicago Bulls	Home	18.12	18.00	13.26	1.000000	0.358378	FirstOne2	2015-11-24	1.0343	32	0	0
+26284	2	Stauskas, Nik	3700	Houston Rockets	Philadelphia 76ers	Home	22.68	26.29	13.25	1.000000	0.358108	FirstOne2	2015-11-23	1.0179	33	0	0
+26301	2	Thornton, Marcus	4100	Philadelphia 76ers	Houston Rockets	Visitor	20.35	25.00	14.46	1.000000	0.352682	FirstOne2	2015-11-25	1.0726	34	0	0
+26280	2	Redick, J.J.	4500	New Orleans Pelicans	Los Angeles Clippers	Visitor	25.64	26.67	15.72	1.000000	0.349333	FirstOne2	2015-11-25	1.0972	35	0	0
+25923	2	Galloway, Langston	4500	Miami Heat	New York Knicks	Visitor	22.44	24.88	15.44	1.000000	0.343111	FirstOne2	2015-11-25	0.9112	36	0	0
+25876	2	Roberson, Andre	3500	Detroit Pistons	Oklahoma City Thunder	Visitor	22.79	21.93	11.27	1.000000	0.322000	FirstOne2	2015-11-25	1.0261	37	0	0
+26210	2	Morrow, Anthony	3700	Detroit Pistons	Oklahoma City Thunder	Visitor	19.18	16.20	11.50	1.000000	0.310810	FirstOne2	2015-11-25	1.0261	38	0	0
+26179	2	Cunningham, Jared	3500	Charlotte Hornets	Cleveland Cavaliers	Home	15.92	13.08	10.01	1.000000	0.286000	FirstOne2	2015-11-25	1.0069	39	0	0
+26221	2	Snell, Tony	3500	Indiana Pacers	Chicago Bulls	Home	21.05	22.31	9.46	1.000000	0.270285	FirstOne2	2015-11-24	1.0343	40	0	0
+25835	2	Patterson, Lamar	3500	Memphis Grizzlies	Atlanta Hawks	Home	15.74	14.78	8.82	1.000000	0.252000	FirstOne2	2015-11-25	0.9604	41	0	0
+26215	2	Foye, Randy	3500	San Antonio Spurs	Denver Nuggets	Visitor	15.98	17.00	6.99	1.000000	0.199714	FirstOne2	2015-11-24	1.1273	42	0	0
+25997	3	Green, Jeff	4800	Atlanta Hawks	Memphis Grizzlies	Visitor	29.28	26.06	24.69	1.000000	0.514375	FirstOne2	2015-11-25	0.9964	1	0	0
+26318	3	Barnes, Matt	4000	Atlanta Hawks	Memphis Grizzlies	Visitor	26.65	23.13	20.22	1.000000	0.505500	FirstOne2	2015-11-25	0.9964	2	0	0
+25591	3	Casspi, Omri	4400	Minnesota Timberwolves	Sacramento Kings	Visitor	27.09	25.07	21.83	1.000000	0.496136	FirstOne2	2015-11-25	1.0684	3	0	0
+26290	3	Sefolosha, Thabo	4300	Memphis Grizzlies	Atlanta Hawks	Home	25.33	22.57	21.21	1.000000	0.493255	FirstOne2	2015-11-25	0.8663	4	0	0
+26307	3	Miles, C.J.	5200	Chicago Bulls	Indiana Pacers	Visitor	27.41	27.09	25.31	1.000000	0.486730	FirstOne2	2015-11-24	0.8746	5	0	0
+26029	3	Batum, Nicolas	7000	Cleveland Cavaliers	Charlotte Hornets	Visitor	35.71	34.67	33.66	1.000000	0.480857	FirstOne2	2015-11-25	1.0047	6	0	0
+26364	3	Iguodala, Andre	5000	Phoenix Suns	Golden State Warriors	Home	27.28	27.94	24.03	1.000000	0.480600	FirstOne2	2015-11-24	0.9134	7	0	0
+26426	3	George, Paul	9900	Chicago Bulls	Indiana Pacers	Visitor	34.48	35.00	45.92	1.000000	0.463838	FirstOne2	2015-11-24	0.8746	8	0	0
+26423	3	Leonard, Kawhi	8900	Denver Nuggets	San Antonio Spurs	Home	36.21	34.43	41.13	1.000000	0.462134	FirstOne2	2015-11-25	0.7916	9	0	0
+26406	3	Gallinari, Danilo	7200	San Antonio Spurs	Denver Nuggets	Visitor	34.03	33.53	33.13	1.000000	0.460138	FirstOne2	2015-11-24	1.0850	10	0	0
+25942	3	Thompson, Hollis	3800	Houston Rockets	Philadelphia 76ers	Home	27.88	27.50	17.31	1.000000	0.455526	FirstOne2	2015-11-25	1.2040	11	0	0
+26308	3	Warren, T.J.	3700	Golden State Warriors	Phoenix Suns	Visitor	22.11	21.14	16.80	1.000000	0.454054	FirstOne2	2015-11-25	1.0268	12	0	0
+26394	3	Gay, Rudy	7900	Minnesota Timberwolves	Sacramento Kings	Visitor	33.63	32.36	35.57	1.000000	0.450253	FirstOne2	2015-11-25	1.0684	13	0	0
+25965	3	Middleton, Khris	5500	Orlando Magic	Milwaukee Bucks	Home	29.49	33.13	24.45	1.000000	0.444545	FirstOne2	2015-11-25	1.0628	14	0	0
+25989	3	Crowder, Jae	4900	Washington Wizards	Boston Celtics	Visitor	27.87	29.13	21.40	1.000000	0.436734	FirstOne2	2015-11-25	1.0822	15	0	0
+26431	3	James, LeBron	10100	Charlotte Hornets	Cleveland Cavaliers	Home	36.41	35.87	44.00	1.000000	0.435643	FirstOne2	2015-11-25	0.9992	16	0	0
+26365	3	Barnes, Harrison	5300	Phoenix Suns	Golden State Warriors	Home	29.88	30.19	23.04	1.000000	0.434716	FirstOne2	2015-11-24	0.9134	17	0	0
+26348	3	Turner, Evan	5400	Washington Wizards	Boston Celtics	Visitor	27.24	25.33	23.24	1.000000	0.430370	FirstOne2	2015-11-25	1.0822	18	0	0
+26407	3	Durant, Kevin	10200	Detroit Pistons	Oklahoma City Thunder	Visitor	32.82	34.00	43.88	1.000000	0.430196	FirstOne2	2015-11-25	0.9355	19	0	0
+26271	3	Covington, Robert	5700	Houston Rockets	Philadelphia 76ers	Home	27.45	27.00	24.35	1.000000	0.427192	FirstOne2	2015-11-25	1.2040	20	0	0
+26424	3	Anthony, Carmelo	9100	Miami Heat	New York Knicks	Visitor	34.51	34.06	38.65	1.000000	0.424725	FirstOne2	2015-11-25	0.9521	21	0	0
+26391	3	Wiggins, Andrew	7500	Sacramento Kings	Minnesota Timberwolves	Home	35.55	34.43	31.83	1.000000	0.424400	FirstOne2	2015-11-25	1.0352	22	0	0
+25577	3	Ariza, Trevor	6000	Philadelphia 76ers	Houston Rockets	Visitor	35.38	35.13	25.27	1.000000	0.421166	FirstOne2	2015-11-25	1.1154	23	0	0
+25899	3	Winslow, Justise	3700	New York Knicks	Miami Heat	Home	28.00	27.86	15.50	1.000000	0.418918	FirstOne2	2015-11-25	0.9853	24	0	0
+26326	3	Mirotic, Nikola	5700	Indiana Pacers	Chicago Bulls	Home	25.68	25.08	23.76	1.000000	0.416842	FirstOne2	2015-11-24	1.0158	25	0	0
+26397	3	Harris, Tobias	6600	Milwaukee Bucks	Orlando Magic	Visitor	32.54	31.79	27.44	1.000000	0.415757	FirstOne2	2015-11-25	0.9493	26	0	0
+25974	3	Morris, Marcus	5900	Oklahoma City Thunder	Detroit Pistons	Home	34.47	36.20	24.46	1.000000	0.414576	FirstOne2	2015-11-25	0.8940	27	0	0
+25892	3	Johnson, Stanley	3700	Oklahoma City Thunder	Detroit Pistons	Home	20.50	20.20	14.95	1.000000	0.404054	FirstOne2	2015-11-25	0.8940	28	0	0
+26332	3	Porter, Otto	5400	Boston Celtics	Washington Wizards	Home	29.71	31.25	21.42	1.000000	0.396666	FirstOne2	2015-11-25	1.1818	29	0	0
+26263	3	Brewer, Corey	3500	Philadelphia 76ers	Houston Rockets	Visitor	21.41	21.93	13.58	1.000000	0.388000	FirstOne2	2015-11-25	1.1154	30	0	0
+26273	3	Bjelica, Nemanja	4000	Sacramento Kings	Minnesota Timberwolves	Home	23.50	26.00	15.32	1.000000	0.383000	FirstOne2	2015-11-18	1.0352	31	0	0
+26295	3	Deng, Luol	5000	New York Knicks	Miami Heat	Home	28.70	28.23	18.84	1.000000	0.376800	FirstOne2	2015-11-23	0.9853	32	0	0
+26234	3	Budinger, Chase	3600	Chicago Bulls	Indiana Pacers	Visitor	19.72	17.50	13.54	1.000000	0.376111	FirstOne2	2015-11-24	0.8746	33	0	0
+26282	3	Tucker, P.J.	4200	Golden State Warriors	Phoenix Suns	Visitor	27.70	26.00	15.47	1.000000	0.368333	FirstOne2	2015-11-25	1.0268	34	0	0
+26239	3	Dudley, Jared	3500	Boston Celtics	Washington Wizards	Home	22.95	22.00	12.64	1.000000	0.361142	FirstOne2	2015-11-25	1.1818	35	0	0
+26232	3	McDermott, Doug	3500	Indiana Pacers	Chicago Bulls	Home	21.03	20.62	11.63	1.000000	0.332285	FirstOne2	2015-11-24	1.0158	36	0	0
+26218	3	Gee, Alonzo	3600	Los Angeles Clippers	New Orleans Pelicans	Home	22.69	20.13	11.17	1.000000	0.310277	FirstOne2	2015-11-25	1.1016	37	0	0
+26238	3	Jefferson, Richard	3500	Charlotte Hornets	Cleveland Cavaliers	Home	20.90	23.07	9.89	1.000000	0.282571	FirstOne2	2015-11-25	0.9992	38	0	0
+25799	3	Hairston, P.J.	3500	Cleveland Cavaliers	Charlotte Hornets	Visitor	16.38	17.08	9.80	1.000000	0.280000	FirstOne2	2015-11-25	1.0047	39	0	0
+26224	3	Babbitt, Luke	3500	Los Angeles Clippers	New Orleans Pelicans	Home	16.38	20.42	9.47	1.000000	0.270571	FirstOne2	2015-11-25	1.1016	40	0	0
+25887	3	Muhammad, Shabazz	3500	Sacramento Kings	Minnesota Timberwolves	Home	16.84	17.13	9.20	1.000000	0.262857	FirstOne2	2015-11-25	1.0352	41	0	0
+26212	3	Johnson, Wesley	3500	New Orleans Pelicans	Los Angeles Clippers	Visitor	17.86	15.00	8.50	1.000000	0.242857	FirstOne2	2015-11-25	0.9826	42	0	0
+26216	3	Thomas, Lance	3500	Miami Heat	New York Knicks	Visitor	16.07	17.44	7.93	1.000000	0.226571	FirstOne2	2015-11-25	0.9521	43	0	0
+25406	3	Pierce, Paul	3500	New Orleans Pelicans	Los Angeles Clippers	Visitor	19.07	20.64	7.73	1.000000	0.220857	FirstOne2	2015-11-25	0.9826	44	0	0
+25822	3	Prince, Tayshaun	3500	Sacramento Kings	Minnesota Timberwolves	Home	19.20	20.80	7.15	1.000000	0.204285	FirstOne2	2015-11-25	1.0352	45	0	0
+26283	4	Leuer, Jon	3500	Golden State Warriors	Phoenix Suns	Visitor	16.02	15.80	16.76	1.000000	0.478857	FirstOne2	2015-11-25	0.9190	1	0	0
+26420	4	Love, Kevin	8300	Charlotte Hornets	Cleveland Cavaliers	Home	34.19	34.00	39.58	1.000000	0.476867	FirstOne2	2015-11-25	0.9284	2	0	0
+26366	4	Williams, Marvin	4900	Cleveland Cavaliers	Charlotte Hornets	Visitor	29.52	30.80	23.33	1.000000	0.476122	FirstOne2	2015-11-25	1.0510	3	0	0
+26021	4	Porzingis, Kristaps	7100	Miami Heat	New York Knicks	Visitor	30.78	27.00	33.77	1.000000	0.475633	FirstOne2	2015-11-25	0.9756	4	0	0
+26392	4	Anderson, Ryan	6700	Los Angeles Clippers	New Orleans Pelicans	Home	34.02	32.47	31.61	1.000000	0.471791	FirstOne2	2015-11-25	1.0109	5	0	0
+26041	4	Griffin, Blake	9200	New Orleans Pelicans	Los Angeles Clippers	Visitor	33.72	33.67	43.34	1.000000	0.471086	FirstOne2	2015-11-25	1.0015	6	0	0
+26322	4	Gordon, Aaron	4100	Milwaukee Bucks	Orlando Magic	Visitor	19.93	19.36	19.21	1.000000	0.468536	FirstOne2	2015-11-25	0.9991	7	0	0
+26430	4	Millsap, Paul	8800	Memphis Grizzlies	Atlanta Hawks	Home	32.51	33.47	40.74	1.000000	0.462954	FirstOne2	2015-11-25	1.0651	8	0	0
+26393	4	Sullinger, Jared	5800	Washington Wizards	Boston Celtics	Visitor	26.13	24.67	26.14	1.000000	0.450689	FirstOne2	2015-11-25	0.9614	9	0	0
+26362	4	Grant, Jerami	4500	Houston Rockets	Philadelphia 76ers	Home	26.74	26.63	20.11	1.000000	0.446888	FirstOne2	2015-11-25	1.1924	10	0	0
+26340	4	Morris, Markieff	5800	Golden State Warriors	Phoenix Suns	Visitor	27.80	26.38	25.89	1.000000	0.446379	FirstOne2	2015-11-25	0.9190	11	0	0
+26421	4	Green, Draymond	7700	Phoenix Suns	Golden State Warriors	Home	32.65	33.13	34.24	1.000000	0.444675	FirstOne2	2015-11-24	0.8719	12	0	0
+26359	4	Thompson, Tristan	5800	Charlotte Hornets	Cleveland Cavaliers	Home	30.11	26.73	25.33	1.000000	0.436724	FirstOne2	2015-11-25	0.9284	13	0	0
+26412	4	Davis, Anthony	11100	Los Angeles Clippers	New Orleans Pelicans	Home	33.91	34.00	47.53	1.000000	0.428198	FirstOne2	2015-11-25	1.0109	14	0	0
+26260	4	Hilario, Nene	4200	Boston Celtics	Washington Wizards	Home	18.69	18.36	17.89	1.000000	0.425952	FirstOne2	2015-11-25	1.0604	15	0	0
+26279	4	Zeller, Cody	3900	Cleveland Cavaliers	Charlotte Hornets	Visitor	21.10	21.15	16.51	1.000000	0.423333	FirstOne2	2015-11-25	1.0510	16	0	0
+26385	4	Gasol, Pau	7700	Indiana Pacers	Chicago Bulls	Home	28.00	28.62	32.33	1.000000	0.419870	FirstOne2	2015-11-24	1.0038	17	0	0
+26257	4	Arthur, Darrell	3800	San Antonio Spurs	Denver Nuggets	Visitor	21.26	18.50	15.65	1.000000	0.411842	FirstOne2	2015-11-24	1.0486	18	0	0
+26281	4	Ilyasova, Ersan	4300	Oklahoma City Thunder	Detroit Pistons	Home	24.61	24.73	17.60	1.000000	0.409302	FirstOne2	2015-11-25	0.9567	19	0	0
+26277	4	Hickson, J.J.	4000	San Antonio Spurs	Denver Nuggets	Visitor	15.51	16.69	16.27	1.000000	0.406750	FirstOne2	2015-11-24	1.0486	20	0	0
+26287	4	Smith, Josh	3900	New Orleans Pelicans	Los Angeles Clippers	Visitor	15.57	14.60	15.77	1.000000	0.404358	FirstOne2	2015-11-25	1.0015	21	0	0
+25894	4	Gibson, Taj	4300	Indiana Pacers	Chicago Bulls	Home	21.06	21.15	17.38	1.000000	0.404186	FirstOne2	2015-11-24	1.0038	22	0	0
+26400	4	Ibaka, Serge	6400	Detroit Pistons	Oklahoma City Thunder	Visitor	30.81	32.00	25.15	1.000000	0.392968	FirstOne2	2015-11-25	0.9614	23	0	0
+26379	4	Aldridge, LaMarcus	7700	Denver Nuggets	San Antonio Spurs	Home	31.48	30.77	30.25	1.000000	0.392857	FirstOne2	2015-11-25	0.8648	24	0	0
+26409	4	Bosh, Chris	8000	New York Knicks	Miami Heat	Home	31.80	32.00	31.34	1.000000	0.391750	FirstOne2	2015-11-25	1.0298	25	0	0
+26299	4	Green, JaMychal	3700	Atlanta Hawks	Memphis Grizzlies	Visitor	18.31	17.56	14.42	1.000000	0.389729	FirstOne2	2015-11-25	1.0062	26	0	0
+26264	4	Allen, Lavoy	3800	Chicago Bulls	Indiana Pacers	Visitor	20.78	20.46	14.79	1.000000	0.389210	FirstOne2	2015-11-24	0.9520	27	0	0
+26250	4	Garnett, Kevin	3800	Sacramento Kings	Minnesota Timberwolves	Home	15.17	15.15	14.27	1.000000	0.375526	FirstOne2	2015-11-25	0.9237	28	0	0
+26254	4	Teletovic, Mirza	3800	Golden State Warriors	Phoenix Suns	Visitor	18.82	14.60	14.27	1.000000	0.375526	FirstOne2	2015-11-25	0.9190	29	0	0
+26247	4	Humphries, Kris	3500	Boston Celtics	Washington Wizards	Home	17.60	19.00	12.82	1.000000	0.366285	FirstOne2	2015-11-25	1.0604	30	0	0
+26286	4	Jones, Terrence	5700	Philadelphia 76ers	Houston Rockets	Visitor	26.36	26.20	20.55	1.000000	0.360526	FirstOne2	2015-11-25	1.1217	31	0	0
+26356	4	Faried, Kenneth	6500	San Antonio Spurs	Denver Nuggets	Visitor	25.62	26.46	23.37	1.000000	0.359538	FirstOne2	2015-11-20	1.0486	32	0	0
+26246	4	Cunningham, Dante	3500	Los Angeles Clippers	New Orleans Pelicans	Home	22.06	22.47	12.56	1.000000	0.358857	FirstOne2	2015-11-25	1.0109	33	0	0
+26258	4	West, David	3700	Denver Nuggets	San Antonio Spurs	Home	15.62	15.07	12.42	1.000000	0.335675	FirstOne2	2015-11-25	0.8648	34	0	0
+26350	4	Noel, Nerlens	6300	Houston Rockets	Philadelphia 76ers	Home	31.12	31.29	20.99	1.000000	0.333174	FirstOne2	2015-11-25	1.1924	35	0	0
+26228	4	Tolliver, Anthony	3600	Oklahoma City Thunder	Detroit Pistons	Home	20.65	20.29	11.83	1.000000	0.328611	FirstOne2	2015-11-25	0.9567	36	0	0
+26214	4	Kaminsky, Frank	3700	Cleveland Cavaliers	Charlotte Hornets	Visitor	16.56	13.43	11.08	1.000000	0.299459	FirstOne2	2015-11-25	1.0510	37	0	0
+26226	4	Parker, Jabari	5300	Orlando Magic	Milwaukee Bucks	Home	23.29	23.22	15.51	1.000000	0.292641	FirstOne2	2015-11-25	1.0392	38	0	0
+26266	4	Diaw, Boris	3500	Denver Nuggets	San Antonio Spurs	Home	15.47	17.47	9.73	1.000000	0.278000	FirstOne2	2015-11-25	0.8648	39	0	0
+26314	5	Dieng, Gorgui	4100	Sacramento Kings	Minnesota Timberwolves	Home	21.23	19.47	21.60	1.000000	0.526829	FirstOne2	2015-11-25	0.9698	1	0	0
+26358	5	Koufos, Kosta	4200	Minnesota Timberwolves	Sacramento Kings	Visitor	24.45	23.80	21.19	1.000000	0.504523	FirstOne2	2015-11-25	1.0320	2	0	0
+26411	5	Okafor, Jahlil	6600	Houston Rockets	Philadelphia 76ers	Home	32.84	32.94	32.43	1.000000	0.491363	FirstOne2	2015-11-25	0.9913	3	0	0
+25945	5	Jokic, Nikola	4400	San Antonio Spurs	Denver Nuggets	Visitor	19.07	16.43	21.35	1.000000	0.485227	FirstOne2	2015-11-24	1.0385	4	0	0
+25582	5	Lopez, Robin	4400	Miami Heat	New York Knicks	Visitor	24.89	25.31	20.80	1.000000	0.472727	FirstOne2	2015-11-25	0.8625	5	0	0
+26325	5	Hill, Jordan	5100	Chicago Bulls	Indiana Pacers	Visitor	23.72	23.62	24.00	1.000000	0.470588	FirstOne2	2015-11-24	1.0277	6	0	0
+25971	5	Bogut, Andrew	4800	Phoenix Suns	Golden State Warriors	Home	18.95	19.40	22.40	1.000000	0.466666	FirstOne2	2015-11-24	0.9441	7	0	0
+26415	5	Jordan, DeAndre	7800	New Orleans Pelicans	Los Angeles Clippers	Visitor	32.27	32.00	35.48	1.000000	0.454871	FirstOne2	2015-11-25	1.0063	8	0	0
+26427	5	Drummond, Andre	9600	Oklahoma City Thunder	Detroit Pistons	Home	33.04	35.20	43.66	1.000000	0.454791	FirstOne2	2015-11-25	0.8175	9	0	0
+26342	5	Capela, Clint	4500	Philadelphia 76ers	Houston Rockets	Visitor	16.31	16.87	20.41	1.000000	0.453555	FirstOne2	2015-11-25	0.9913	10	0	0
+25542	5	Mahinmi, Ian	4800	Chicago Bulls	Indiana Pacers	Visitor	24.07	23.62	21.33	1.000000	0.444375	FirstOne2	2015-11-24	1.0277	11	0	0
+26373	5	Vucevic, Nikola	7300	Milwaukee Bucks	Orlando Magic	Visitor	28.03	28.82	32.42	1.000000	0.444109	FirstOne2	2015-11-25	1.0986	12	0	0
+26341	5	Gortat, Marcin	6100	Boston Celtics	Washington Wizards	Home	26.74	27.00	27.08	1.000000	0.443934	FirstOne2	2015-11-25	0.9591	13	0	0
+25948	5	Ezeli, Festus	4300	Phoenix Suns	Golden State Warriors	Home	18.06	19.13	18.83	1.000000	0.437906	FirstOne2	2015-11-24	0.9441	14	0	0
+26419	5	Whiteside, Hassan	8500	New York Knicks	Miami Heat	Home	28.77	28.86	36.97	1.000000	0.434941	FirstOne2	2015-11-25	1.0235	15	0	0
+26395	5	Jefferson, Al	7100	Cleveland Cavaliers	Charlotte Hornets	Visitor	27.07	26.60	30.86	1.000000	0.434647	FirstOne2	2015-11-25	1.0921	16	0	0
+25994	5	Monroe, Greg	7800	Orlando Magic	Milwaukee Bucks	Home	30.14	31.67	33.68	1.000000	0.431794	FirstOne2	2015-11-25	0.9248	17	0	0
+26399	5	Cousins, DeMarcus	10600	Minnesota Timberwolves	Sacramento Kings	Visitor	32.05	31.56	44.83	1.000000	0.422924	FirstOne2	2015-11-23	1.0320	18	0	0
+26418	5	Horford, Al	7200	Memphis Grizzlies	Atlanta Hawks	Home	30.94	31.06	29.69	1.000000	0.412361	FirstOne2	2015-11-25	1.2402	19	0	0
+25587	5	Howard, Dwight	8100	Philadelphia 76ers	Houston Rockets	Visitor	33.47	32.20	32.80	1.000000	0.404938	FirstOne2	2015-11-25	0.9913	20	0	0
+26382	5	Duncan, Tim	6600	Denver Nuggets	San Antonio Spurs	Home	27.92	27.13	26.65	1.000000	0.403787	FirstOne2	2015-11-25	0.8325	21	0	0
+26405	5	Towns, Karl-Anthony	6900	Sacramento Kings	Minnesota Timberwolves	Home	26.32	27.87	27.57	1.000000	0.399565	FirstOne2	2015-11-25	0.9698	22	0	0
+26328	5	Adams, Steven	4000	Detroit Pistons	Oklahoma City Thunder	Visitor	22.21	23.31	15.98	1.000000	0.399500	FirstOne2	2015-11-25	0.9741	23	0	0
+26410	5	Gasol, Marc	7800	Atlanta Hawks	Memphis Grizzlies	Visitor	36.22	33.44	31.12	1.000000	0.398974	FirstOne2	2015-11-25	0.8990	24	0	0
+25953	5	Olynyk, Kelly	3600	Washington Wizards	Boston Celtics	Visitor	16.35	16.79	13.94	1.000000	0.387222	FirstOne2	2015-11-25	0.9891	25	0	0
+26267	5	Noah, Joakim	4400	Indiana Pacers	Chicago Bulls	Home	19.85	20.08	16.97	1.000000	0.385681	FirstOne2	2015-11-24	1.1222	26	0	0
+25551	5	Johnson, Amir	4600	Washington Wizards	Boston Celtics	Visitor	22.39	22.47	16.78	1.000000	0.364782	FirstOne2	2015-11-25	0.9891	27	0	0
+26249	5	Mozgov, Timofey	4000	Charlotte Hornets	Cleveland Cavaliers	Home	19.45	20.33	14.52	1.000000	0.363000	FirstOne2	2015-11-19	0.8947	28	0	0
+26369	5	Kanter, Enes	5900	Detroit Pistons	Oklahoma City Thunder	Visitor	20.71	21.06	20.84	1.000000	0.353220	FirstOne2	2015-11-25	0.9741	29	0	0
+26297	5	Cauley-Stein, Willie	3800	Minnesota Timberwolves	Sacramento Kings	Visitor	17.27	18.73	13.15	1.000000	0.346052	FirstOne2	2015-11-25	1.0320	30	0	0
+26306	5	Chandler, Tyson	4700	Golden State Warriors	Phoenix Suns	Visitor	22.24	24.86	15.34	1.000000	0.326382	FirstOne2	2015-11-23	0.8776	31	0	0
+26229	5	Splitter, Tiago	3500	Memphis Grizzlies	Atlanta Hawks	Home	15.14	16.79	9.60	1.000000	0.274285	FirstOne2	2015-11-21	1.2402	32	0	0
+26220	5	O'Bryant, Johnny	3500	Orlando Magic	Milwaukee Bucks	Home	15.85	17.29	7.76	1.000000	0.221714	FirstOne2	2015-11-23	0.9248	33	0	0
